@@ -75,47 +75,47 @@ p {
     object-fit: cover; /* Ensure the image covers the entire area */
 }
 .card-2{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-	width: 350px;
-    height:50px;
-    margin-top:20px;
-	border-radius:20px;
+display:inline-block;
+background:hsl(0, 0%, 20%);
+font-size:20px;
+width: 350px;
+height:50px;
+margin-top:20px;
+border-radius:20px;
 }
 .card-3{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
+ display:inline-block;
+background:hsl(0, 0%, 20%);
+font-size:20px;
+width: 350px;
+height:50px;
+margin-top:30px;
+border-radius:20px;
 }
 .card-4{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
+display:inline-block;
+background:hsl(0, 0%, 20%);
+font-size:20px;
+width: 350px;
+height:50px;
+margin-top:30px;
+border-radius:20px;
 }
 .card-5{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
+display:inline-block;
+background:hsl(0, 0%, 20%);
+font-size:20px;
+width: 350px;
+height:50px;
+margin-top:30px;
+border-radius:20px;
 }
 .card-6{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
+display:inline-block;
+background:hsl(0, 0%, 20%);
+font-size:20px;
+ width: 350px;
+height:50px;
+margin-top:30px;
+border-radius:20px;
 }
