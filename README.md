@@ -46,12 +46,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- VS Code
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -77,7 +74,7 @@ const proudOfThisFunc = () => {
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
 
 ### Continued development
 
@@ -95,10 +92,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Adrielle Rivera](https://www.your-site.com)
-- Frontend Mentor - [@adriellerivera](https://www.frontendmentor.io/profile/adriellerivera)
+- Frontend Mentor - 
 - Twitter - [@virtualadrielle](https://www.twitter.com/virtualadrielle)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
