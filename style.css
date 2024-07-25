@@ -19,7 +19,7 @@ body {
     padding: 40px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     display: flex;
-    flex-direction: column;*/pag wala neto, sira ang element*/
+    flex-direction: column;*/pag wala neto, sira ang element
     align-items: center;
     flex-basis: 352.05px;/*ito yung lighter gray*/
 }
@@ -30,6 +30,7 @@ body {
     border-radius: 50%;
     margin-bottom: 20px;
     object-fit: cover;
+    align-self: center
 }
 
 .title {
