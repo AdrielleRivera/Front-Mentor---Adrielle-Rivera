@@ -49,32 +49,29 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - VS Code
 - CSS Grid
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Chatgpt 4.0
+- W3school tutorials
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I have realized that learning by discovery and trial & error is a good opportunity for me to grow as a coder. This advice was given to me by my coach in Learn Computer Today Philippines.
+"Remember that is code is all about coomunicating with the human developers, write your code in a way that someone else or even you in 5 years can still read what you wrote" - Yuriy
+To create logos, use <a>
+max-width - based on my understanding, puts the element in the middle part.
+"Don't forget to add "alt" in <img>" - Grace-Snow
+Margin creates space around the element! "Outside"
+Padding also creates space around the element but "Inside"
+Navbar = creates list of link which is the goal of this project. I was constantly reminded by Grace-Snow, but I didn't listen. I only applied it at the end, thanks for understanding me Coach Grace! XD
+Without Display Flex = The elements only stay in the left.
+I have learned how to use Width and Height here. I understand how it works.
 
-To see how you can add code snippets, see below:
+"Avoid using width and height" - AlexKMarshall
+Text Align:Center = this css code brings the element in the middle.
+Flex basis is much better than width. = I agree with this because I also experimented it.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
+Padding: 30px(This side is the vertical, it goes up when you change it) 20px(This side is Horizon. It goes left and right)
+
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 
 ### Continued development
 
@@ -92,9 +89,9 @@ Core Concepts - I need to understand how to follow the design.
 
 ## Author
 
-- Website - [Adrielle Rivera](https://www.your-site.com)
-- Frontend Mentor - 
-- Twitter - [@virtualadrielle](https://www.twitter.com/virtualadrielle)
+- Website - [Adrielle Rivera] (https://www.your-site.com)
+- Frontend Mentor - https://www.frontendmentor.io/profile/AdrielleRivera
+- Twitter - [@virtualadrielle] (https://www.twitter.com/virtualadrielle)
 
 
 ## Acknowledgments
@@ -102,7 +99,7 @@ Core Concepts - I need to understand how to follow the design.
 Thank you first to my mentors in Frontend mentors, Grace-Snow, AlexKMarshall, gx, 
 
 My discord buddies from Athene AI Heroes:
-Yuriy, Dbarkz, Imotaru,
+Yuriy, Dbarkz, Imotaru, Freepls.
 
 My coach from the Learn Computer Today Philippines
 
