@@ -65,6 +65,10 @@ p {
     color: hsl(0, 0%, 100%);
     margin: 10px 0; /* Add margin for spacing */
 }
+.description {
+    font-size: 17px; /* Smaller font size for this specific paragraph */
+    font-weight:300
+}
 .word-1{
     font-weight: 500;
     padding-top: 5px;
