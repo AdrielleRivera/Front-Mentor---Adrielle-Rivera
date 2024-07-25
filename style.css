@@ -57,16 +57,22 @@ body {
 
 .social-links {
     width: 100%;
+    list-style: none;
+    padding: 0;
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.social-links li {
+    margin: 0;
 }
 
 .social-card {
     background: hsl(0, 0%, 25%);
     font-size: 16px;
     padding: 10px 20px;
-    margin: 2px;
+    margin: 2px 0;
     border-radius: 5px;
     color: hsl(0, 0%, 100%);
     font-weight: 400;
@@ -74,6 +80,7 @@ body {
     transition: background-color 0.3s;
     display: flex;
     justify-content: center;
+    text-decoration: none;
 }
 
 .social-card:hover {
