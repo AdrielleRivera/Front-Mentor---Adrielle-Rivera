@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -6,6 +7,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(0, 0%, 8%)
 }
 
 section.profile {
@@ -24,121 +27,76 @@ section.profile {
 }
 
 .card {
-    width: 350px; 
+    max-width: 350px; 
     background: hsl(0, 0%, 12%);
     text-align: center; 
-    border-radius: 6px;
-    padding: 50px;
+    border-radius: 15px;
+    padding: 40px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-footer {
-    position: fixed;
-    width: 50%;
-    bottom: 10px;
-    border: 3px ;
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    object-fit: cover;
 }
 
 .title {
-    font-size: 30px;
-    font-family: "Inter", sans-serif;
+    font-size: 24px;
     color: hsl(0, 0%, 100%);
-    margin: 10px 0; /* Add margin for spacing */
+    margin: 9px 0;
     font-weight: 600;
 }
 
 .subtitle {
-    font-family: "Inter", sans-serif;
-    font-size: 17px; /* Adjust as needed */
+    font-size: 14px;
     color: hsl(75, 94%, 57%);
-    margin: 5px 0; /* Add margin for spacing */
-    font-weight: 500;
-    padding-bottom: 20px;
+    margin: 3px 0;
+    font-weight: 700;
+    padding-bottom: 15px;
 }
 
-p {
-    font-family: "Inter", sans-serif;
-    font-size: 17px; /* Adjust as needed */
-    color: hsl(0, 0%, 100%);
-    margin: 10px 0; /* Add margin for spacing */
-}
 .description {
-    font-size: 17px; /* Smaller font size for this specific paragraph */
-    font-weight:300
+    font-size: 14px;
+    font-weight: 300;
+    color: hsl(0, 0%, 100%);
+    margin: 10px 0 30px;
 }
-.word-1{
+
+.social-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.social-card {
+    background: hsl(0, 0%, 25%);
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 2px;
+    border-radius: 5px;
+    color: hsl(0, 0%, 100%);
     font-weight: 500;
-    padding-top: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    align-items: center;
+
 }
-.word-2{
-    font-weight: 500;
-    padding-top: 5px;
+
+
+.social-card:hover {
+    background: hsl(75, 94%, 57%)
 }
-.word-3{
-    font-weight: 500;
-    padding-top: 5px;
-    
-}
-.word-4{
-    font-weight: 500;
-    padding-top: 5px;
-}
-.word-5{
-    font-weight: 500;
-    padding-top: 5px;
-}
-.profile-image {
-    width: 100px; /* Adjust as needed */
-    height: 100px; /* Adjust as needed */
-    border-radius: 50%; /* Make the image circular */
-    margin-bottom: 20px;
-    object-fit: cover; /* Ensure the image covers the entire area */
-}
-.card-2{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-	width: 350px;
-    height:50px;
-    margin-top:20px;
-	border-radius:20px;
-}
-.card-3{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
-}
-.card-4{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
-}
-.card-5{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
-}
-.card-6{
-    display:inline-block;
-	background:hsl(0, 0%, 20%);
-	font-size:20px;
-    width: 350px;
-    height:50px;
-	margin-top:30px;
-	border-radius:20px;
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
 }
