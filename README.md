@@ -78,14 +78,15 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+HTML structure - I am not yet that confident with this, but I know I can do better
+CSS style - Approriate codes for giving style to the HTML. What I usually do is that I take notes of every code and re-read to understand how it works. I always ask advice from Frontend mentors.
+Core Concepts - I need to understand how to follow the design.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- https://www.w3schools.com/html/ - This helped me for understanding basic structure of HTML and CSS. I really liked this pattern and will use it going forward. It helped me understand the explanation of each tags, elements and css styles, very helpful for new beginners.
+- https://developer.mozilla.org/en-US/docs/Web/CSS/calc - Dbarkz, my coach from UK shared this to me to explain more about calc
+- https://www.youtube.com/watch?v=qKoajPPWpmo&list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C - Basic CSS tutorial for beginner playlist, very helpful for me, I was able to understand and visualize CSS because of this.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
@@ -98,6 +99,17 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thank you first to my mentors in Frontend mentors, Grace-Snow, AlexKMarshall, gx, 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+My discord buddies from Athene AI Heroes:
+Yuriy, Dbarkz, Imotaru,
+
+My coach from the Learn Computer Today Philippines
+
+Michael Tan
+
+My team mates from LCT team one!
+
+Ypzar John Cresencio Sandoval, Dane Morte and Rona Tupas.
+
+Thank you for being patient with me!
