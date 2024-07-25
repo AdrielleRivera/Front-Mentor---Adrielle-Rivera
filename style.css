@@ -49,14 +49,14 @@ footer {
     margin: 10px 0; /* Add margin for spacing */
     white-space: nowrap; /* Prevent line break */
     overflow: hidden; /* Hide overflowing text */
-    text-overflow: ellipsis; /* Add ellipsis to indicate overflow */
 }
 
 .subtitle {
     font-family: "Inter", sans-serif;
-    font-size: 20px; /* Adjust as needed */
+    font-size: 18px; /* Adjust as needed */
     color: hsl(75, 94%, 57%);
-    margin: 10px 0; /* Add margin for spacing */
+    margin: 5px 0; /* Add margin for spacing */
+    font-weight: 500;
 }
 
 p {
