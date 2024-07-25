@@ -77,4 +77,12 @@ body {
 }
 
 .social-card:hover {
-    background:
+    background: hsl(75, 94%, 57%);
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
