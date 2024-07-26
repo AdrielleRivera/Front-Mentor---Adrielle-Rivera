@@ -57,27 +57,36 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - I have realized that learning by discovery and trial & error is a good opportunity for me to grow as a coder. This advice was given to me by my coach in Learn Computer Today Philippines.
 
 - "Remember that is code is all about coomunicating with the human developers, write your code in a way that someone else or even you in 5 years can still read what you wrote" - Yuriy
-To create logos, use <a>
+- To create logos, use a
 
 - max-width - based on my understanding, puts the element in the middle part.
 
-- "Don't forget to add "alt" in <img>" - Grace-Snow
+- "Don't forget to add "alt" in img - Grace-Snow
 
 - Margin creates space around the element! "Outside"
 
 - Padding also creates space around the element but "Inside"
+  
 - Navbar = creates list of link which is the goal of this project.
-- I have learned and understand how <ul> <li> works for social media.
-- I have learned how to use an anchor tag for linking social medias. <a href ="(link)">Github</a>
+  
+- I have learned and understand how ul and li tag works for social media.
+  
+- I have learned how to use an anchor tag for linking social medias. a href ="(link)"
+  
 - I have learned how to use proper indentation, very helpful for debugging and looking at the parent tag.
+  
 - (I was constantly reminded by Grace-Snow, but I didn't listen. I only applied it at the end, thanks for understanding me Coach Grace! XD)
+  
 - Without Display Flex = The elements only stay in the left.
+
 - I have learned how to use Width and Height here. I understand how it works.
-
+  
 - "Avoid using width and height" - AlexKMarshall
+  
 - Text Align:Center = this css code brings the element in the middle.
+  
 - Flex basis is much better than width. = I agree with this because I also experimented it.
-
+  
 - Padding: 30px(This side is the vertical, it goes up when you change it) 20px(This side is Horizon. It goes left and right)
 
 ```
@@ -91,15 +100,15 @@ Core Concepts - I need to understand how to follow the design.
 ### Useful resources
 
 - https://www.w3schools.com/html/ - This helped me for understanding basic structure of HTML and CSS. I really liked this pattern and will use it going forward. It helped me understand the explanation of each tags, elements and css styles, very helpful for new beginners.
-- https://developer.mozilla.org/en-US/docs/Web/CSS/calc - Dbarkz, my coach from UK shared this to me to explain more about calc
-- https://www.youtube.com/watch?v=qKoajPPWpmo&list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C - Basic CSS tutorial for beginner playlist, very helpful for me, I was able to understand and visualize CSS because of this.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- https://developer.mozilla.org/en-US/docs/Web/CSS/calc - Dbarkz, my coach from UK shared this to me to explain more about calc
+
+- https://www.youtube.com/watch?v=qKoajPPWpmo&list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C - Basic CSS tutorial for beginner playlist, very helpful for me, I was able to understand and visualize CSS because of this.
 
 ## Author
 
 - Website - [Adrielle Rivera] (https://www.your-site.com)
-- Frontend Mentor - https://www.frontendmentor.io/profile/AdrielleRivera
+- Frontend Mentor - (https://www.frontendmentor.io/profile/AdrielleRivera)
 - Twitter - [@virtualadrielle] (https://www.twitter.com/virtualadrielle)
 
 
