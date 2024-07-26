@@ -29,7 +29,7 @@ footer {
   color: #fff;
   background-color: hsl(0, 0%, 25%);
   position: absolute;
-  bottom: 10;
+  bottom: 0;
   left: 0;
   width: 100%;
   padding: 1rem;
