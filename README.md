@@ -57,7 +57,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - I have realized that learning by discovery and trial & error is a good opportunity for me to grow as a coder. This advice was given to me by my coach in Learn Computer Today Philippines.
 
 - "Remember that is code is all about coomunicating with the human developers, write your code in a way that someone else or even you in 5 years can still read what you wrote" - Yuriy
-- To create logos, use a
+
+- To create logos, use "a" or anchor tag
 
 - max-width - based on my understanding, puts the element in the middle part.
 
