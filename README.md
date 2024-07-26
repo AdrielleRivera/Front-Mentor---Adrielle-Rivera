@@ -110,7 +110,7 @@ Core Concepts - I need to understand how to follow the design.
 
 ## Acknowledgments
 
-Thank you first to my mentors in Frontend mentors, Grace-Snow, AlexKMarshall, gx, 
+Thank you first to my mentors in Frontend mentors, Grace-Snow, AlexKMarshall, gx, DylandeBruijn
 
 My discord buddies from Athene AI Heroes:
 Yuriy, Dbarkz, Imotaru, Freepls.
